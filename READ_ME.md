@@ -1,3 +1,7 @@
-The goal of the game is to avoid incoming obstacles.
+A Shoot 'em up game created using the pygame library.
 
-Run the main.py file in the root directory to initialize the game. 
+Based on the project from this tutorial: https://realpython.com/pygame-a-primer/
+
+To initialize the game install the requirements.txt file in your python venv and run main.py
+
+Python Version 3.9

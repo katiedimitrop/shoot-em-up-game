@@ -1,0 +1,14 @@
+# General
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 30
+
+class COLOURS:
+    WHITE = (255, 255, 255)
+    BLACK = (0, 0, 0)
+    SKY_BLUE = (135, 206, 250)
+
+# Sprites
+STEP = 5
+MIN_ENEMY_SPEED = 5
+MAX_ENEMY_SPEED = 20
